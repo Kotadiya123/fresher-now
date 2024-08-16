@@ -21,6 +21,7 @@ export default function RootLayout({
       <title>
 		Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science
 	</title>
+  <meta name="google-adsense-account" content="ca-pub-1015080934306186"></meta>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1015080934306186"
      crossOrigin="anonymous"></script>
 	<meta name="description"
