@@ -17,9 +17,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        
       <title>
 		Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science
 	</title>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1015080934306186"
+     crossOrigin="anonymous"></script>
 	<meta name="description"
 		content="Online calculator for quick calculations, along with a large collection of calculators on math, finance, fitness, and more, each with in-depth information." />
       </head>
